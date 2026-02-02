@@ -4,11 +4,11 @@ const noBtn = document.getElementById("no");
 let scale = 1;
 
 const noTexts = [
-  "Sei sicuro?",
-  "Daiiii 😢",
-  "Pensaci meglio",
-  "Non fare così 💔",
-  "Ok, basta…"
+  "Are you sure?..",
+  "cmon...",
+  "im gonna cry...",
+  "uou want me death... ",
+  "You are talking to your husband soul now"
 ];
 
 let index = 0;
@@ -22,5 +22,5 @@ noBtn.addEventListener("click", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  document.body.innerHTML = "<h1>💖 Sapevo che avresti detto SÌ 💖</h1>";
+  document.body.innerHTML = "<h1> YAYYYYYYYY</h1>";
 });
