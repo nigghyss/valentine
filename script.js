@@ -7,7 +7,7 @@ const noTexts = [
   "Are you sure?..",
   "cmon...",
   "im gonna cry...",
-  "uou want me death... ",
+  "you want me death... ",
   "You are talking to your husband soul now"
 ];
 
